@@ -1,6 +1,6 @@
 # Algorithmus 
 
-**Du benötigst: **
+**Du benötigst:**
 * einen Bleistift
 * ein Radiergummi
 * einen dicken Filzstift 
@@ -9,7 +9,7 @@
 * Blatt Papier, mindestens DIN A4
 
 
-* Gehe Schritt für Schritt vor: lese erst den Satz und fang dann an, zu zeichnen. * 
+*Gehe Schritt für Schritt vor: lese erst den Satz und fang dann an, zu zeichnen.* 
 
 
 Mit dem Bleistift: Setze einen Punkt irgendwo aufs Blatt Papier. 
