@@ -7,10 +7,11 @@
 * einen dünnen Filzstift
 * einen bunten Filzstift 
 * Blatt Papier, mindestens DIN A4
+<space>
 
 *Gehe Schritt für Schritt vor: lese erst den Satz und fang dann an, zu zeichnen.* 
 
-
+<space>
 1. **Mit dem Bleistift:** Setze einen Punkt irgendwo aufs Blatt Papier. 
 2. Von diesem Punkt aus, ziehe 5 bis 10 gerade Linien bis an die Ränder des Papiers. 
 
