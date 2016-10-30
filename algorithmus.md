@@ -28,5 +28,5 @@ Von diesem Punkt aus, ziehe 5 bis 10 gerade Linien bis an die Ränder des Papier
 6. Zerknülle nun das Papier und mach es anschließend wieder glatt. 
 7. Bunter Stift: Zeichne beliebig viele Linien, die durch das Zerknüllen entstanden sind, nach. Zeichne die Linien ausgehend von dem Punkt in Richtung der Papierränder.
 
+![algorithmus](https://cloud.githubusercontent.com/assets/23063564/19840307/1e897cf2-9ef3-11e6-959f-03cbb3f7abea.jpg)
 
-(https://github.com/hulianbrox/3-3_Algorithmus/blob/master/Algorithmus.jpg)
