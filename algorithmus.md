@@ -52,5 +52,5 @@ Die Beschreibung des Algorithmus war schwer zu formulieren. Die Probanten waren 
 Allgemein hätte man noch andere Materialien und Formate benutzen können, um die Bandbreite des Algorithmuses deutlicher zu visualieren.
 
 # Persönlicher Favorit 
-
+![favorit](https://cloud.githubusercontent.com/assets/23063564/19840662/582340b2-9efb-11e6-92a0-6803c65ce05f.jpg)
 
