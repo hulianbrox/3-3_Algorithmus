@@ -1,17 +1,15 @@
-# 3-3_Algorithmus
-
 # Algorithmus 
 
-Du benötigst: 
-einen Bleistift
-ein Radiergummi
-einen dicken Filzstift 
-einen dünnen Filzstift
-einen bunten Filzstift 
-Blatt Papier, mindestens DIN A4
+**Du benötigst: **
+* einen Bleistift
+* ein Radiergummi
+* einen dicken Filzstift 
+* einen dünnen Filzstift
+* einen bunten Filzstift 
+* Blatt Papier, mindestens DIN A4
 
 
-Gehe Schritt für Schritt vor: lese erst den Satz und fang dann an, zu zeichnen. 
+* Gehe Schritt für Schritt vor: lese erst den Satz und fang dann an, zu zeichnen. * 
 
 
 Mit dem Bleistift: Setze einen Punkt irgendwo aufs Blatt Papier. 
