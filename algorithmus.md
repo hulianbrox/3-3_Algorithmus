@@ -30,20 +30,25 @@
 ![algorithmus](https://cloud.githubusercontent.com/assets/23063564/19840307/1e897cf2-9ef3-11e6-959f-03cbb3f7abea.jpg)
 
 
-# Inspiration 
+# Inspiration  
 Die Inspiration kam von meinem ersten Algorithmus, wo Dreiecke in einer Linie gereit werden sollten (siehe Bild). 
 ![img_3923](https://cloud.githubusercontent.com/assets/23063564/19840453/7881642e-9ef6-11e6-9fe3-57debc47f548.JPG)
 ![img_3924](https://cloud.githubusercontent.com/assets/23063564/19840458/8a08aa5e-9ef6-11e6-99f2-855500ebcc22.JPG)
 
-Diese gleichmäßige Anreihung der Dreiecke gab im Ansatz ein sehr interessantes Bild. Jedoch wollte ich, dass das Bild mehr Spannung erzeugt und ich wollte dem Algorithmus Raum für mehr Variationen geben. 
+Diese gleichmäßige Anreihung der Dreiecke gab im Ansatz ein sehr interessantes Bild. Jedoch wollte ich ein Bild mit mehr Spannung und Komplexität erzeugt und zudem dem Algorithmus Raum für mehr Variationen geben. Mehr Linien, an denen die Dreiecke platziert sind und sich in einem Zentrum treffen, sollen dem Bild mehr Tiefe und Komplexität verleihen. 
+
+Um mehr Dynamik zu erzeugen, habe ich nach einer Form gesucht, die im Kontrast zu den fast mathematisch geordneten und gradlinigen Dreiecken stehen. Inspiriert durch Blitze bin ich auf die Idee gekommen, das Blatt zu zerknüllen und die Linien nachzuzeichenen. 
+
+# Ausführung
+Gezeichnet wurde mit einem Bleistift und verschiedenen dicken und farbigen Filzstiften. Als Material wurde meistens ein Papier DIN A4 gebraucht.
+
+# Variablen und Konstanten 
+Die Kontansten bringen eine Struktur in das Bild. In meinem Algorithmus war das zum einen die gradlinige Anordnung von Dreiecke. Zum anderen war dies die Kombination aus 2 graphischen Formen: der gezackten Linie und dem Dreieck. Die dritte Konstante bildet die Zentralisierung aller Formen und Linien auf dem Papier. 
+
+Variablen waren die Anzahl der Dreiecke und Linien, die genaue Form und Größe. Zudem gab es noch Variationen in der Art der Zeichenmaterialien. Die PLatzierung des Zentrums war auch eine ausschlaggebende Variable. 
+
+# Kritik
+Die Beschreibung des Algorithmus war schwer zu formulieren. Die Probanten waren unsicher, wenn die Beschreibung zu viel Freiraum geben hat. Die traf besonders auf die Probanten zu, die nicht in der Kreativbranche tätig sind.
+Allgemein hätte man noch andere Materialien und Formate benutzen können, um die Bandbreite des Algorithmuses deutlicher zu visualieren.
 
 
-Wie lautet der Algorithmus?
-Was hat dich inspiriert?
-Wurden Hilfswerkzeuge zur Ausführung eingesetzt werden?
-Womit wurde gezeichnet?
-Was ist das Material?
-Was ist das Format?
-Was sind die Parameter/Variablen?
-Was sind Konstanten?
-Was ging schief?
