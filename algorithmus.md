@@ -8,7 +8,6 @@
 * einen bunten Filzstift 
 * Blatt Papier, mindestens DIN A4
 
-
 *Gehe Schritt für Schritt vor: lese erst den Satz und fang dann an, zu zeichnen.* 
 
 
