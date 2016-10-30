@@ -16,7 +16,7 @@
 
 
 3. **Dicker Stift:** Platziere Dreiecke entlang einiger Linien bis zum Papierrand. Die Abstände zwischen den Dreiecken sollen sich vergrößern. 
-4. **Dünner Stift:** Wiederhole Punkt 3 entlang der restlichen Linien mit dem dünnen Stift. 
+4. **Dünner Stift:** Wiederhole Schritt 3 entlang der restlichen Linien mit dem dünnen Stift. 
 
 
 5. Radiere die Bleistiftlinien weg, aber lass den Punkt sichtbar.
